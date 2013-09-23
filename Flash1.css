@@ -1,0 +1,30 @@
+*{
+	padding: 0;margin: 0;
+}
+div,ul,li{
+	text-decoration: none;
+	list-style: none;
+}
+
+#hot{
+	margin: 10px;
+	position: relative;
+}
+.title{
+	position: absolute;
+	top: 0;
+}
+.focus{
+	margin-bottom: 10px; 
+}
+.item{
+	float: left;
+}
+.frame{
+	position: absolute;
+	top: 180px;
+	width: 72px;
+	height: 40px;
+	border: 2px solid #BBD362;
+	border-radius: 5px;
+}
